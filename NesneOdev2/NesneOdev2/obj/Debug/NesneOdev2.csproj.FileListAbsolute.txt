@@ -1,0 +1,7 @@
+C:\Users\aysee\Desktop\NesneOdev2\NesneOdev2\bin\Debug\NesneOdev2.exe.config
+C:\Users\aysee\Desktop\NesneOdev2\NesneOdev2\bin\Debug\NesneOdev2.exe
+C:\Users\aysee\Desktop\NesneOdev2\NesneOdev2\bin\Debug\NesneOdev2.pdb
+C:\Users\aysee\Desktop\NesneOdev2\NesneOdev2\obj\Debug\NesneOdev2.csprojResolveAssemblyReference.cache
+C:\Users\aysee\Desktop\NesneOdev2\NesneOdev2\obj\Debug\NesneOdev2.csproj.CoreCompileInputs.cache
+C:\Users\aysee\Desktop\NesneOdev2\NesneOdev2\obj\Debug\NesneOdev2.exe
+C:\Users\aysee\Desktop\NesneOdev2\NesneOdev2\obj\Debug\NesneOdev2.pdb
